@@ -1,0 +1,19 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+target/
+/bin
+/out
+output/
+release/
+debug/
+ *~
+thumbs.db
+.DS_Store
+*.log
+/node_modules
+/packages
+.log
+.lock
+.tmp
+.idea/workspace.xml
