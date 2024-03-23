@@ -17,3 +17,4 @@ thumbs.db
 .lock
 .tmp
 .idea/workspace.xml
+*.html
