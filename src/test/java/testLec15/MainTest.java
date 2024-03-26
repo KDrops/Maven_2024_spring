@@ -7,8 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class MainTest {
     public void testGoogle(){
-        //vcvbnm,mbnvbcbnm,m,
-        //hgfcx b nm,m,kjhngvbcfbnm
+
 
 
 

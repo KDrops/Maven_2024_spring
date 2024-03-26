@@ -52,6 +52,8 @@ public class MainTest { //для классов слово тест пишетс
         String value = message.getText();
         Assert.assertEquals("Received!", value);
 
+
+
         driver.quit();
     }
 }
